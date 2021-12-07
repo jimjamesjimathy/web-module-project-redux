@@ -17,17 +17,17 @@ In this project, you take a fairly complex application used to search a movie da
 
 ## Instructions
 ### Task 1: Project Set Up
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository in your terminal
-* [ ] cd into the project base directory `cd web-module-project-redux`
-* [ ] Download project dependencies by running `npm install``
-* [ ] Start up the app using `npm start`
+* [x] Create a forked copy of this project.
+* [x] Clone your OWN version of the repository in your terminal
+* [x] cd into the project base directory `cd web-module-project-redux`
+* [x] Download project dependencies by running `npm install``
+* [x] Start up the app using `npm start`
 
 ### Task 2: Project Requirements
 #### Setup Redux
 > *The DOM and movie reducer has been provided for you, but it's up to to connect it to redux...*
 
-* [ ] In index.js, make use of the createStore method and Provider component to link your App to redux.
+* [x] In index.js, make use of the createStore method and Provider component to link your App to redux.
 
 #### Connecting the Movie reducer
 > *Within the reducers folder is the movieReducers file. We have the state already setup it up here with some initial data. Let's connect that state to our component.*
